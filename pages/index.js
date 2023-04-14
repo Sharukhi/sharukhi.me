@@ -97,7 +97,7 @@ const Home = () => (
           Skills
         </Heading>
         <li>Python</li>
-        <li>Tkinter</li>
+        <li>Docker</li>
         <li>Figma</li>
         <li>Photoshop</li>
       </Section>
