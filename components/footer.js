@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <Box align="center" opacity={0.4} fontSize="sm">
       &copy; {new Date().getFullYear()} Sharukhi. All Rights Reserved. 
-      Template by <a href='https://github.com/craftzdog/craftzdog-homepage'>craftzdog</a> 
+      Based on <a href='https://craftz.dog/'>craftz.dog</a> 
     </Box>
   )
 }
