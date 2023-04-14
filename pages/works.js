@@ -5,7 +5,7 @@ import { WorkGridItem } from '../components/grid-item'
 
 import work1 from '../public/images/works/work1.jpg'
 import work2 from '../public/images/works/work2.jpg'
-import work3 from '../public/images/works/work3.jpeg'
+import work3 from '../public/images/works/readme.jpeg'
 
 
 const Works = () => (
