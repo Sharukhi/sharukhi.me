@@ -1,12 +1,10 @@
-# Takuya's Homepage
+# Sharukhi's Portfolio
 
-[https://www.craftz.dog/](https://www.craftz.dog/)
+[sharukhi.me](https://sharukhi.me/)
 
-## Tutorial
 
-Watch how I built this website on YouTube:
 
-[![YouTube thumbnail](./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+![YouTube thumbnail](./public/card.png)
 
 ## Stack
 
@@ -33,15 +31,15 @@ $PROJECT_ROOT
 
 MIT License.
 
-You can create your own homepage for free without notifying me by forking this project under the following conditions:
+ ***This website is based on [Takuya Matsuyama's homepage](https://github.com/craftzdog/craftzdog-homepage)***
 
-- Add a link to [my homepage](https://www.craftz.dog/)
-- Do not use the 3d voxel dog
-
-Check out [LICENSE](./LICENSE) for more detail.
 
 ---
+You can create your own website for free under the following condition:
+ - Attribution: You must give appropriate credit, provide a link to Takuya Matsuyama's homepage (https://www.craftz.dog/).
+ - For example: 
+ ```bash
+ This website is built based on the <a href='https://www.craftz.dog/' target='_blank'>Takuya Matsuyama's website</a>
+ ```
+---
 
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
-
-[![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)

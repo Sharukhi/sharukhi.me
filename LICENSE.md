@@ -1,15 +1,14 @@
-The 3D voxel dog is distributed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/).
-You can't reuse it on your website.
+This website is based on [Takuya Matsuyama's homepage](https://github.com/craftzdog/craftzdog-homepage)
 
-You can create your own website for free without notifying me by forking this project under the following condition:
- - Attribution: You must give appropriate credit, provide a link to my homepage (https://www.craftz.dog/).
+You can create your own website for free under the following condition:
+ - Attribution: You must give appropriate credit, provide a link to Takuya Matsuyama's homepage (https://www.craftz.dog/).
  - For example: This website is built based on the <a href='https://www.craftz.dog/' target='_blank'>Takuya Matsuyama's website</a>.
 
-Otherwise, the following license is applied to the source code:
+The following license is applied to the source code:
 ------
 The MIT License (MIT)
 
-Copyright (c) 2022 Takuya Matsuyama
+Copyright (c) 2023 Sharukhi 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
