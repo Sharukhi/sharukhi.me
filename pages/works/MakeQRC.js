@@ -28,7 +28,7 @@ const Work = () => (
           </Link>
         </ListItem>
       </List>
-      <WorkImage src="/images/works/readme.jpeg" alt="Inkdrop" />
+      <WorkImage src="https://github.com/Sharukhi/makeqrc/blob/main/public/assets/readme.jpeg" alt="Inkdrop" />
     </Container>
   </Layout>
 )
