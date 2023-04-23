@@ -91,17 +91,6 @@ const Home = () => (
       </Section>
 
 
-
-      <Section delay={0.3}>
-        <Heading as="h3" variant="section-title">
-          Skills
-        </Heading>
-        <li>Python</li>
-        <li>Docker</li>
-        <li>Figma</li>
-        <li>Photoshop</li>
-      </Section>
-
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
           On the web
