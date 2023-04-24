@@ -75,7 +75,7 @@ const Navbar = props => {
           flexGrow={1}
           mt={{ base: 4, md: 0 }}
         >
-          <LinkItem href="/works" path={path}>
+          <LinkItem href="/works/" path={path}>
             Portfolio
           </LinkItem>
           <LinkItem href="https://sharukhi.github.io/blog/" path={path}>
@@ -98,7 +98,7 @@ const Navbar = props => {
                 <MenuItem as={MenuLink} href="/">
                   Home
                 </MenuItem>
-                <MenuItem as={MenuLink} href="/works">
+                <MenuItem as={MenuLink} href="/works/">
                   Works
                 </MenuItem>
                 <MenuItem as={MenuLink} href="https://sharukhi.github.io/blog/">
