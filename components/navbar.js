@@ -78,7 +78,7 @@ const Navbar = props => {
           <LinkItem href="/works/" path={path}>
             Portfolio
           </LinkItem>
-          <LinkItem href="https://sharukhi.github.io/blog/" path={path}>
+          <LinkItem href="https://blog.sharukhi.me/" path={path}>
             Blog
           </LinkItem>
         </Stack>
@@ -101,7 +101,7 @@ const Navbar = props => {
                 <MenuItem as={MenuLink} href="/works/">
                   Works
                 </MenuItem>
-                <MenuItem as={MenuLink} href="https://sharukhi.github.io/blog/">
+                <MenuItem as={MenuLink} href="https://blog.sharukhi.me/">
                   Blog
                 </MenuItem>
               </MenuList>
