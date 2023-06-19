@@ -26,6 +26,8 @@ const Main = ({ children, router }) => {
         <meta property="og:site_name" content="Sharukhi" />
         <meta name="og:title" content="Sharukhi" />
         <meta property="og:type" content="website" />
+        <script data-goatcounter="https://ataullah.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
         <title>Sharukhi</title>
       </Head>
 
