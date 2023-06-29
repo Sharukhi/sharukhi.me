@@ -4,6 +4,7 @@ import NavBar from '../navbar'
 import { Box, Container } from '@chakra-ui/react'
 import Footer from '../footer'
 import VoxelDogLoader from '../voxel-dog-loader'
+import Script from 'next/script'
 
 const LazyVoxelDog = dynamic(() => import('../voxel-dog'), {
   ssr: false,
@@ -12,6 +13,7 @@ const LazyVoxelDog = dynamic(() => import('../voxel-dog'), {
 
 const Main = ({ children, router }) => {
   return (
+    <>
     <Box as="main" pb={8}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -26,8 +28,7 @@ const Main = ({ children, router }) => {
         <meta property="og:site_name" content="Sharukhi" />
         <meta name="og:title" content="Sharukhi" />
         <meta property="og:type" content="website" />
-        <script data-goatcounter="https://ataullah.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+
         <title>Sharukhi</title>
       </Head>
 
@@ -41,6 +42,9 @@ const Main = ({ children, router }) => {
         <Footer />
       </Container>
     </Box>
+    <script data-goatcounter="https://ataullah.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script> 
+    </>
   )
 }
 
