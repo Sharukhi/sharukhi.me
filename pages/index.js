@@ -60,7 +60,7 @@ const Home = () => (
             overflow="hidden"
           >
             <ProfileImage
-              src="/images/avatar.jpg"
+              src="https://www.gravatar.com/avatar/0be95461e21a84c6c87d20ea429f303876a0bc21d7a9e4b666eda54416a7c175"
               alt="Profile image"
               borderRadius="full"
               width="100"
